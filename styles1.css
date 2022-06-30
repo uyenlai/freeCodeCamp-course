@@ -1,0 +1,47 @@
+body{
+    background-color:#DFDFDF;
+  }
+  
+  header{
+  font-family: monospace;
+  text-align: center;
+  }
+  
+  #title{
+    font-size: 35px;
+  }
+  
+  #image{
+    width: 100%;
+    height: auto;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #img-caption{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 1024px;
+    text-align: center;
+  }
+  
+  #tribute-info{
+    margin: auto;
+    width: 50%;
+  }
+  
+  h4{
+    text-align: center;
+  }
+  
+  h3{
+    text-align: center;
+  }
+  
+  #img-div{
+    background-color: white;
+    padding: 15px;
+    margin: 10px; 
+  }
